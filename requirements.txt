@@ -1,4 +1,4 @@
 ccxt
-matplotlib.pyplot
+matplotlib
 pandas
 numpy
