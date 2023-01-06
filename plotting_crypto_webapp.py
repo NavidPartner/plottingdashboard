@@ -10,7 +10,7 @@ from datetime import datetime
 
 
 # define exchange
-exchange = ccxt.binance()
+exchange = ccxt.bybit()
 
 def get_ticker_list():
 
